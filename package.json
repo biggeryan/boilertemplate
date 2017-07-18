@@ -1,0 +1,19 @@
+{
+  "name": "boilertemplate",
+  "version": "0.0.1",
+  "description": "通用构建模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biggeryan/boilertemplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biggeryan/boilertemplate/issues"
+  },
+  "homepage": "https://github.com/biggeryan/boilertemplate#readme"
+}
